@@ -1,7 +1,7 @@
 # NBC Guideline
-# 1. Struktur Penulisan
+# :package: Struktur Penulisan
 Dalam menuliskan `source code, terminal atau sintak khusus lainnya` gunakan `block code` untuk menyorot area tertentu.
-## 1.1 Penulisan Source Code dan Terminal
+## 1. Penulisan Source Code dan Terminal
 Dalam menggunakan `block code` sertakan bahasa pemrogramman dari source code yang di tulis agar preview sesuai.
 
 contoh dengan pemrograman PHP
@@ -35,7 +35,7 @@ $ npm install
 $ npm install name-package
 ```
 ````
-## 1.2 Penulisan Penomoran dan Judul
+## 2. Penulisan Penomoran dan Judul
 ```
 # 1. Judul
 
