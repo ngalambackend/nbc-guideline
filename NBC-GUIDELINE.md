@@ -1,4 +1,4 @@
-# NBC Guideline
+# [NBC Guideline](https://github.com/ngalambackend/nbc-guideline/blob/master/NBC-GUIDELINE.md)
 # :package: Struktur Penulisan
 Dalam menuliskan `source code, terminal atau sintak khusus lainnya` gunakan `block code` untuk menyorot area tertentu.
 ## 1. Penulisan Source Code dan Terminal
